@@ -10,3 +10,8 @@ Challenges Encountered: ~~~~~~~~~~~~~~~~~~~~~~
 """ This program prints Hello"""
 
 print("Hello")
+
+
+""" This program prints Goodbye"""
+
+print("Goodbye")
